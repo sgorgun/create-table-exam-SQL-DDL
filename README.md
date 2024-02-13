@@ -4,7 +4,7 @@
 
 Create a database scheme for the domain (see description). The BD scheme must correspond to at least the third normal form (3NF).
 
-DB should contain at least 9 tables with primary and foreign keys, unique, not null attributes where it is suitable.
+DB should contain at least 15 tables with primary and foreign keys, unique, not null attributes where it is suitable.
 
 ### Restriction for create table statements
 - Do not use ALTER operations 
